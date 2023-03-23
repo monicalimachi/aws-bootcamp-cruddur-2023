@@ -16,3 +16,7 @@ Configured Cost Management
 ## Configured AWS CLI
 Configured gitpod and included env variables
 The Gitpod was configured with AWS API Key to have access to the environment to test AWS Cloud Shell
+
+## Generated AWS Credentials and tested on gitpod.yml
+I configured the gitpod with my AWS credentials but for security purposes they were added to the GITPOD ENV variables.
+https://github.com/monicalimachi/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml
