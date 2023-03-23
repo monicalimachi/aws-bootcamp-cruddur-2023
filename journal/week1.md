@@ -2,6 +2,12 @@
 ## Added Docker files 
 - Added Dockerfiles for backend and frontend
 - Added docker-compose
+
+Command used to run docker-compose:
+
+To run ``` docker-compose -f docker-compose.yml up -d --build ``` and to stop containers
+``` docker-compose -f docker-compose.yml stop ```
+
 ## App running
 
 ### Backend
